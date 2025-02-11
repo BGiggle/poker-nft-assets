@@ -1,0 +1,39 @@
+{
+  "name": "D1: Eight of Diamonds",
+  "symbol": "PH",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/33.png",
+  "attributes": [
+    {
+      "trait_type": "Deck",
+      "value": "1"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Diamonds"
+    },
+    {
+      "trait_type": "Value",
+      "value": "8"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "BfRQbGiCyZRjq9GYaM7optLZX4M9h5QNmMUDxyvc1KKZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/33.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokerhands",
+    "family": "pokerhands"
+  }
+}

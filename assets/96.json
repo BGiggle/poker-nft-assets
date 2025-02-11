@@ -1,0 +1,39 @@
+{
+  "name": "D10: Six of Spades",
+  "symbol": "PH",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/96.png",
+  "attributes": [
+    {
+      "trait_type": "Deck",
+      "value": "10"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Spades"
+    },
+    {
+      "trait_type": "Value",
+      "value": "6"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "BfRQbGiCyZRjq9GYaM7optLZX4M9h5QNmMUDxyvc1KKZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/96.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokerhands",
+    "family": "pokerhands"
+  }
+}

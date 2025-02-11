@@ -1,0 +1,39 @@
+{
+  "name": "D19: Ace of Diamonds",
+  "symbol": "PH",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/547.png",
+  "attributes": [
+    {
+      "trait_type": "Deck",
+      "value": "19"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Diamonds"
+    },
+    {
+      "trait_type": "Value",
+      "value": "A"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "BfRQbGiCyZRjq9GYaM7optLZX4M9h5QNmMUDxyvc1KKZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/547.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokerhands",
+    "family": "pokerhands"
+  }
+}

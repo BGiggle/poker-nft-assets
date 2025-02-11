@@ -1,0 +1,39 @@
+{
+  "name": "D6: Queen of Clubs",
+  "symbol": "PH",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/857.png",
+  "attributes": [
+    {
+      "trait_type": "Deck",
+      "value": "6"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Clubs"
+    },
+    {
+      "trait_type": "Value",
+      "value": "Q"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "BfRQbGiCyZRjq9GYaM7optLZX4M9h5QNmMUDxyvc1KKZ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/857.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokerhands",
+    "family": "pokerhands"
+  }
+}
