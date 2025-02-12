@@ -1,0 +1,434 @@
+{
+  "program": {
+    "candyMachine": "DRqkSppYjzaMmte6kTqVaFAsdGtn7v5Qf1MSCCVooWWt",
+    "candyGuard": "9sBXBjhnjD9JvyJkh7DmXtBzCGnvxDuB7aJWnVzfr7Uj",
+    "candyMachineCreator": "56zEmDFYgPcES9ctUo89KoeDGCkaqKzaA1upq3ae7rrV",
+    "collectionMint": "GEfmak8zjjfvatEgkrTh2QNuX93HdjttcPND14M18EPJ"
+  },
+  "items": {
+    "-1": {
+      "name": "Poker Hands Collection",
+      "image_hash": "d6c68dfd6f798f2be3e660d841b87c737b9ef47bf08b10f70c487ddbbcb2c47f",
+      "image_link": "https://gateway.irys.xyz/3vY8Bvtkpiok3FAsVQoYoyr42csHjZTYGAQ4L5YfKZ4a?ext=png",
+      "metadata_hash": "f2cb120cf53acc00b6f755de0a0caa54f3ddaab73c4fd067dbe884ec0d3d31dc",
+      "metadata_link": "https://gateway.irys.xyz/F9zgomgXoSdLV766d1ZaUekB8HLGnv84JU71FmPW1Dvj",
+      "onChain": true
+    },
+    "0": {
+      "name": "D1: Ace of Hearts",
+      "image_hash": "1d00d4747281776b0070812ffe418cb6496bb99964fdd10d1f48bb0f9d8588b8",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/0.png",
+      "metadata_hash": "86d0da124bbf428883f299f26b8c08e71f1e0e1b3616fc7aad3b4ba33e47fdcd",
+      "metadata_link": "https://gateway.irys.xyz/32QyqU6FrB1b6SEYFU6cpZd4rAm8DMnQg5veUnXELexW",
+      "onChain": true
+    },
+    "1": {
+      "name": "D1: Two of Hearts",
+      "image_hash": "bcaebaaffc7bc4b5f9e6740944afee398aff773d35c4d2e49a0c2b71a5a79758",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/1.png",
+      "metadata_hash": "5e519594665c549e3b3a7c0f44b7b7af93e297b829700c856bf51337b1872a38",
+      "metadata_link": "https://gateway.irys.xyz/8Lcfu5MGdnWop71up5FF3UGePajFUHHywyJEekQcnita",
+      "onChain": true
+    },
+    "2": {
+      "name": "D1: Three of Hearts",
+      "image_hash": "851e386a98d6092fab144b4313563c7695bc84046797caba12d223e8f3f049f2",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/2.png",
+      "metadata_hash": "2fd0202ea98b8d0675940acdb528ef44e66de1fc893a4e958c239c9b36066acc",
+      "metadata_link": "https://gateway.irys.xyz/6RPrVepEnQkgLofKE7NsLYUuAUJbTTkrmqQNre5W8T51",
+      "onChain": true
+    },
+    "3": {
+      "name": "D1: Four of Hearts",
+      "image_hash": "e5e448265c0bed356715fa6face8d86256dea739d3086743b8b9ee64b79cbbd6",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/3.png",
+      "metadata_hash": "a84a239ce3b05e69ad5ce6b278bacb0536bcf5efd48b1f6947b3db1af43a7484",
+      "metadata_link": "https://gateway.irys.xyz/9xypa81FoYbe2Fzdcknw692kQaQHvKRSEohVH15Zz8ax",
+      "onChain": true
+    },
+    "4": {
+      "name": "D1: Five of Hearts",
+      "image_hash": "694969239a7898c8b3368ba274958aa6edddbe3f8eeddf609d93df8b22e6fa25",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/4.png",
+      "metadata_hash": "9a5c4271d264bc041ebf3e5f8d9bb868270c43a43870e89f6c9f3f70a0873286",
+      "metadata_link": "https://gateway.irys.xyz/BnKjYt443hCngRK2PEMaJ8Dr7AnYXmZPd2Vyj6WCRFnz",
+      "onChain": true
+    },
+    "5": {
+      "name": "D1: Six of Hearts",
+      "image_hash": "d8ba29254003125b311ad4e8880eb8deb17fed4a6d0ede96f11b5975a8eaac44",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/5.png",
+      "metadata_hash": "fc40ae2b8abe7253356374985ac2bb8c7e510a185ff1d26b399912b483692373",
+      "metadata_link": "https://gateway.irys.xyz/AbXSwPu79EaqEFdf2xVpWzY4KJPhdTj9oFAjYhPhBGfz",
+      "onChain": true
+    },
+    "6": {
+      "name": "D1: Seven of Hearts",
+      "image_hash": "71048c18569bc7eafc63f243e40bf072a853ea441d772f8463c18eba3db56126",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/6.png",
+      "metadata_hash": "d131cf25b9de889e243ce106b3759adc1c092abcf998db56e02376a9d27d0f78",
+      "metadata_link": "https://gateway.irys.xyz/CqH4zbNpzuN5MkpD17vn7jWxpvD2KMJRZNddS9vjpCE4",
+      "onChain": true
+    },
+    "7": {
+      "name": "D1: Eight of Hearts",
+      "image_hash": "2250196078bd5f06bcd255c44d139555e7fa7e7751672bef5be682ae3b27d8d0",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/7.png",
+      "metadata_hash": "57845b666ce0a090f42213c4247c9dfa880e36b567a2311cb162e58b129a15aa",
+      "metadata_link": "https://gateway.irys.xyz/DSkTeS6L1uKx247rYNYYfT3WgByjkeV3aqo1jdDbdwA5",
+      "onChain": true
+    },
+    "8": {
+      "name": "D1: Nine of Hearts",
+      "image_hash": "ba295749e320957b8576162374124280b915d81439ce6d27705e5b43475f986b",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/8.png",
+      "metadata_hash": "f38b7ca482c6cebe2708f09b9946773cdb7c6e18f9cd266839ceaf32f0d2ae37",
+      "metadata_link": "https://gateway.irys.xyz/7vsAVqHtZpU3RwiSNd7ddFhy5rrh6PNCVDkhLPVheXgT",
+      "onChain": true
+    },
+    "9": {
+      "name": "D1: Ten of Hearts",
+      "image_hash": "19bee223b69f84f9fdf7e249191a9d3866ea88a25372627f29c3c4a5c24a868b",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/9.png",
+      "metadata_hash": "238817bfa5a806d5f66243452c89c40353bcdfa4659e643c864cdd1add521e3d",
+      "metadata_link": "https://gateway.irys.xyz/FiPGPN3WPxDWHys28zeBVQVhnoYXFHug5aaN7TzvdHF3",
+      "onChain": true
+    },
+    "10": {
+      "name": "D1: Jack of Hearts",
+      "image_hash": "773058aefae1b4aa746d29a96b15d8ebc36e2ba8b5cace8a643c8924795d7cee",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/10.png",
+      "metadata_hash": "40b193b48e90fb7701a62570cee0c694fa6dbc6ca656ccf47ba3777653400944",
+      "metadata_link": "https://gateway.irys.xyz/5UGwbuZTykqzLRLQuEv846RtRM924R6i8QK93vXN2SXo",
+      "onChain": true
+    },
+    "11": {
+      "name": "D1: Queen of Hearts",
+      "image_hash": "3ea1bcfc4b493757429a097a70978b6be7bafd40c1fc6b355337ceb7d026d614",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/11.png",
+      "metadata_hash": "0d306027b5e9e48e57e48e57dec27644050788e22c0a65b36ad9d45766fed627",
+      "metadata_link": "https://gateway.irys.xyz/6RXhzDScz6wZ1ig9VkMe5jgxvwfwNNbrCWYWMBNPhT3a",
+      "onChain": true
+    },
+    "12": {
+      "name": "D1: King of Hearts",
+      "image_hash": "de4facde74c78ccc967c53225077412e8152c1f981b3199be1e7ce4729704718",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/12.png",
+      "metadata_hash": "483e60df60f695eba3ef3c187cb71a618270cea6085ec77c015504186fad923f",
+      "metadata_link": "https://gateway.irys.xyz/Bjr7vjrNzAvLFQRYRgcMESajfDWcyTtgYXN7bckH4nV9",
+      "onChain": true
+    },
+    "13": {
+      "name": "D1: Ace of Clubs",
+      "image_hash": "bddc713069013aa9663a5f2cbba541e78beeb8050e0453c0e9f32ac5c763f358",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/13.png",
+      "metadata_hash": "f66618f43f426ad4a79be2b898f6a52effdd7aaf296d2ad8b39a4eaed90fbbe5",
+      "metadata_link": "https://gateway.irys.xyz/GYtu2XkpX73qVBZFLvRjHmQcmSWjJYtN1mdKuCy5uY9o",
+      "onChain": true
+    },
+    "14": {
+      "name": "D1: Two of Clubs",
+      "image_hash": "1b0b034bcc56f5504545edda2910dab636f1cd82ab54deb0f7afad5ab7ee0472",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/14.png",
+      "metadata_hash": "6b15bef989bd5508565f0ff1b190fdf4df7a86055b8b3db6a737b9d7d29a4559",
+      "metadata_link": "https://gateway.irys.xyz/J6vCUTYbTVM4tww78fpSw8QHhCF1oqsLpbsmyNfG4zJg",
+      "onChain": true
+    },
+    "15": {
+      "name": "D1: Three of Clubs",
+      "image_hash": "74f9582ca0963a36ac87282a6b4cc301cc28a6c6c061914ae67fbe31997c6e3c",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/15.png",
+      "metadata_hash": "e0ffae1c0f95a0c4b6157c9ba2b671df5b331ce5c637371ca1cb0308ff0f71ba",
+      "metadata_link": "https://gateway.irys.xyz/GuJ1xjrWEJ5pCym1FDYBU6Y6RnK6GfxwEiW1rXLHJjbF",
+      "onChain": true
+    },
+    "16": {
+      "name": "D1: Four of Clubs",
+      "image_hash": "c0fbd75e2ebbb4a42c9c8bf34d81abb6be30fa275f64032cb9be199ce4809868",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/16.png",
+      "metadata_hash": "dc7875edb14a4a083d445f2af44f2b91d91258b320eff4b1375f842453a7d6ab",
+      "metadata_link": "https://gateway.irys.xyz/CRekv4goHuEmkSogShZjHfS7tnzt2foextFjaXurFoBm",
+      "onChain": true
+    },
+    "17": {
+      "name": "D1: Five of Clubs",
+      "image_hash": "551a661fbb7d354e8bfb49d0e067e0e45968264ec1812b1b3ac4646445dc62a7",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/17.png",
+      "metadata_hash": "2dd918bd67d5b38093e0e9b9641c1bfb86dc5e6bbafd5fc84fc071844bbce39b",
+      "metadata_link": "https://gateway.irys.xyz/mVqcnuC283HRH68jAP2EccWnW5qXeii6YKqc2YMgteT",
+      "onChain": true
+    },
+    "18": {
+      "name": "D1: Six of Clubs",
+      "image_hash": "18e9b5f8391ad0c40bfa37071328719a970c0cab014b90dc1dc88e49dbaccd3e",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/18.png",
+      "metadata_hash": "0f94e2a4cd3f20c297db9b848f2cae86bb7bacdb000f34ef7a9cc7b2ae3816b3",
+      "metadata_link": "https://gateway.irys.xyz/6i35pEgivMxE249xqHV7oWf9kZuLMXwsVJ3e2jmyRLWZ",
+      "onChain": true
+    },
+    "19": {
+      "name": "D1: Seven of Clubs",
+      "image_hash": "e1ca8db17e0041e8934ac14c6c9358a118dc0d276474ad9dde8cabd2a9f7f997",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/19.png",
+      "metadata_hash": "e46e2ad26f65046c0db3633bbb34193b4294ffbc1aa410fb05afed604a227a76",
+      "metadata_link": "https://gateway.irys.xyz/Dmca6jMACwJEG5kJ3h566BwKq1MEZDcm4DcsDfiMjCG2",
+      "onChain": true
+    },
+    "20": {
+      "name": "D1: Eight of Clubs",
+      "image_hash": "6c84a040715d3b14502b74ac11dd81591165ee847d4ba5100d0c2f4c9378dff7",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/20.png",
+      "metadata_hash": "d12181459dcb4872763ee3481eab8d0c19f1262cf9a65d91b513215851e89920",
+      "metadata_link": "https://gateway.irys.xyz/3N825tAKc1WnauzZBAyH214MBxc42vpnPX2Cwx7pht6P",
+      "onChain": true
+    },
+    "21": {
+      "name": "D1: Nine of Clubs",
+      "image_hash": "0adac18db28c2623b334239b73ef3b0fc0a02fcfdc8b5b1c50bda868cb74c07f",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/21.png",
+      "metadata_hash": "6920b5141a74c2e1beade80a8506ab6a51c85121416dcc5f18ed708e95b43811",
+      "metadata_link": "https://gateway.irys.xyz/CKnrsfkpmyFFbSXiF6wk5J8a8A1V9dPQr7hTMD6pfGmd",
+      "onChain": true
+    },
+    "22": {
+      "name": "D1: Ten of Clubs",
+      "image_hash": "c74d88346f5f0f2f309f1b840cfb11e38ab4516b9aa4e1103b4459ca9031e090",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/22.png",
+      "metadata_hash": "210256502dae1cb2cc10b38d7e3855045b8efcc82f0ce1295366df26ad050ee6",
+      "metadata_link": "https://gateway.irys.xyz/ChueCun9tXf7F51oe372ZNU1e7iRLsBicFPt4i6yKtxn",
+      "onChain": true
+    },
+    "23": {
+      "name": "D1: Jack of Clubs",
+      "image_hash": "90955bf3db1225de0e26f35f63c37a4c9b4969dccc29ea599779c32e04bc08e2",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/23.png",
+      "metadata_hash": "43b073b1da46a0b4c52165b6ce36eb26702d6a5a9b5a0d2e46d4c6b24c504aef",
+      "metadata_link": "https://gateway.irys.xyz/3Bq92Q7ntuAiujDoJgn9C1m7CiLRuoVHZUAzwVzKrogn",
+      "onChain": true
+    },
+    "24": {
+      "name": "D1: Queen of Clubs",
+      "image_hash": "b0edb8452da7211a136acecbffad3d03f9d3cdf3548ece807ff2c8408498337a",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/24.png",
+      "metadata_hash": "21a157121cd05b7b928b54dedd677417fa37134aaefc9b1503194aa3fbf3cfc8",
+      "metadata_link": "https://gateway.irys.xyz/HHEVBN3WY6VQUKvQib9AoujMYRBTFbxYCNmduAbHPRg7",
+      "onChain": true
+    },
+    "25": {
+      "name": "D1: King of Clubs",
+      "image_hash": "5fefa7cd6ec8d250082c87d2327c48825aacdcfd72595e5a9effe7b72e51d6f9",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/25.png",
+      "metadata_hash": "af00547c6dc8d5b48ef4e540ca13521e93e023da814eec2dd68971d062f395f3",
+      "metadata_link": "https://gateway.irys.xyz/68pVFDnANT1VzNXCWPvDEUjmzmobZzWZgfLFvCRCjmti",
+      "onChain": true
+    },
+    "26": {
+      "name": "D1: Ace of Diamonds",
+      "image_hash": "065072908b74997d5de02ff5ac650c2f56d9d7c7277cd996c8e0bcd0fe048c80",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/26.png",
+      "metadata_hash": "aed20468cf038c2640d6b34534a0fc51c00b093f4f20a4151aa194e4f265ed12",
+      "metadata_link": "https://gateway.irys.xyz/3r8j8ef8QrTqe3zkAXvH2EBGBEb5SkF1JRKCdyuFP5px",
+      "onChain": true
+    },
+    "27": {
+      "name": "D1: Two of Diamonds",
+      "image_hash": "04fcc107f14e905b8709fa335feb17388b252fcbf4b039e49565b5934571f6d5",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/27.png",
+      "metadata_hash": "579aa9f148d6ae9da62cc9d720346fc8eb963725a546b436b0ede54daa1805b1",
+      "metadata_link": "https://gateway.irys.xyz/JEFvGjFJUdy2KoHkEotwwVGrx1tX8kdVfPhcJf4rAVPP",
+      "onChain": true
+    },
+    "28": {
+      "name": "D1: Three of Diamonds",
+      "image_hash": "cfd35681d5a7d52c234f6c7e1fbf001574065ae5a6eff48d6df1841c26fa84cb",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/28.png",
+      "metadata_hash": "285f1e3ffef528776b1dbbe6ef93a3bd6022ca2a0110e304e3f8002918166ab9",
+      "metadata_link": "https://gateway.irys.xyz/5ioWXFcirBDj5RsAe4TYxsqUSF8JC1tCjicvfenEWL6U",
+      "onChain": true
+    },
+    "29": {
+      "name": "D1: Four of Diamonds",
+      "image_hash": "83b7031aa11b81abac2fc524e0bb89d212a5baa8b7552fc7d56b91ac5415946d",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/29.png",
+      "metadata_hash": "6c90b549ab95ecbe32bc056c8a57b8a163932ff66c9d1c9cebbc68a586ce4198",
+      "metadata_link": "https://gateway.irys.xyz/Fr5KXJbbZrbzCA5hzB7GoXAZGXJDAYLbphW2vGHGYYr7",
+      "onChain": true
+    },
+    "30": {
+      "name": "D1: Five of Diamonds",
+      "image_hash": "46ebb3bce4cbe11addf31e4aca9b3ac7c9ab35c9227180739fbd773a1eadc5fa",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/30.png",
+      "metadata_hash": "42097f351d9912216f70225466fccef9e24d6d58e7373ebd4174e7b2eb7dc116",
+      "metadata_link": "https://gateway.irys.xyz/HDiFrVqfjniNUpwDro3CQ1uwYR1k4DM4QxPggz4zLHfr",
+      "onChain": true
+    },
+    "31": {
+      "name": "D1: Six of Diamonds",
+      "image_hash": "0da87007f6c0cb0226242f0fd4a14209f07b04088d0b1825161dd03f9c451e4f",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/31.png",
+      "metadata_hash": "8c10e490db4da57bc19ebee0a7296f95b463ed66486377773d9257c35ab133e4",
+      "metadata_link": "https://gateway.irys.xyz/9txa5xmbcDgHfxg5c122eTNTSr4VZQVc3QwxaVjXt7wM",
+      "onChain": true
+    },
+    "32": {
+      "name": "D1: Seven of Diamonds",
+      "image_hash": "f6f26e3212cf811bb2b5374824029ae367245a13bae1e541d9d6cda7926d331e",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/32.png",
+      "metadata_hash": "2fd0348d6c7c9d06862f77edcaf51dcc23fe19682dce2955b7bac33e793d4512",
+      "metadata_link": "https://gateway.irys.xyz/7V84rVo9hedsEVZjEeWRizy6QnVWQ7MiRKDvq4ZGsDD2",
+      "onChain": true
+    },
+    "33": {
+      "name": "D1: Eight of Diamonds",
+      "image_hash": "fa712821d7abc5a77c9e9129982478250fd270ee0cae983403d6c7820ef7808a",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/33.png",
+      "metadata_hash": "600029015eb3a486c83c2b63ef4258e749506e65c70c6ff51cc9376373ce8b37",
+      "metadata_link": "https://gateway.irys.xyz/EtSEtnBQLYX3QmZNhTnGsBVdwgEHw2E9Wq1sJKuwXREu",
+      "onChain": true
+    },
+    "34": {
+      "name": "D1: Nine of Diamonds",
+      "image_hash": "818cd22c8a85ea55af9655ede5923b5f409b6787db0e30102fd7c747c7dd9f41",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/34.png",
+      "metadata_hash": "5731cd1312804e77c2efa280ed3100cef4a0d58f5ea5568a8b717fc8bcb2545c",
+      "metadata_link": "https://gateway.irys.xyz/86SHtgmzNzk9apRtVKLMZVrFhuPufe6Ukkzh1wi3whqZ",
+      "onChain": true
+    },
+    "35": {
+      "name": "D1: Ten of Diamonds",
+      "image_hash": "8aa151c6169e3bda0b708645a3180d60bda2438a52dfd2c9d74ae8ee7f015efb",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/35.png",
+      "metadata_hash": "baf87aedc2dc5da40964575aa69b4645668a017792a4965c4dc32b2fd78dbcbb",
+      "metadata_link": "https://gateway.irys.xyz/zxHFWChC2uhpAPmS4EDU1G77gjMkewrhrjAkVgXheT1",
+      "onChain": true
+    },
+    "36": {
+      "name": "D1: Jack of Diamonds",
+      "image_hash": "f0a656b0ecd275838b62dceee3b4a4b13704240f67d68acdb967ee8e5eec3656",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/36.png",
+      "metadata_hash": "01464d6be5eb11b7d523b4f8c0bef811d55cdcf23f00b59b48673e328c92b135",
+      "metadata_link": "https://gateway.irys.xyz/7Y1RSkFV8ykyeEwhijb67nxAVY9cmdi9mjzpvTa2b1t3",
+      "onChain": true
+    },
+    "37": {
+      "name": "D1: Queen of Diamonds",
+      "image_hash": "f272ba7fced83565711eab3dc07adc1e6ece6b66f9d1fe108dbe391226564fa3",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/37.png",
+      "metadata_hash": "e745760b1503b41be4100979443c3bce5aa67a79c110b18177c09eaacc09217c",
+      "metadata_link": "https://gateway.irys.xyz/GhjtvNZCKu1gnFRairS6NdxPZYJ2aN6FKcXAUogVvyTo",
+      "onChain": true
+    },
+    "38": {
+      "name": "D1: King of Diamonds",
+      "image_hash": "86e594aaec5903d6f9d281f5a4df47a520b9f382cfa5e7c5e93904ecf9f28048",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/38.png",
+      "metadata_hash": "bef4ec8270657c420066bfb0dc03b2a358e0b73908d09af98001d5ecb9dca84d",
+      "metadata_link": "https://gateway.irys.xyz/BzdRGfMnvh5qhJ4P8nB7s311zqkkqp5cuafxdEZsna85",
+      "onChain": true
+    },
+    "39": {
+      "name": "D1: Ace of Spades",
+      "image_hash": "7844179aa133c0005339d0904d1817778479297b8dcdc2cdd049999bfd9f45d8",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/39.png",
+      "metadata_hash": "c2b95c740f1a93eb72a086e4e89fcc6d8aa1bfd1aeb116ca02e4eb1803a939c0",
+      "metadata_link": "https://gateway.irys.xyz/929ghDo4xPCvQj4q9Mc6CmgJcertetxxB3xk7MMy9LM9",
+      "onChain": true
+    },
+    "40": {
+      "name": "D1: Two of Spades",
+      "image_hash": "0988d4d89892c56ccff525e3258895de7ee3267894dcbe6d2501bbc85e5007fa",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/40.png",
+      "metadata_hash": "1f1d4b923b5406a08888c5f16b35532c73cbd612a120e6ec4d839a1aea4429ab",
+      "metadata_link": "https://gateway.irys.xyz/4DTwF3dawDexvrwLXSfThs689xPnsVvkngnCerd1MA8u",
+      "onChain": true
+    },
+    "41": {
+      "name": "D1: Three of Spades",
+      "image_hash": "0d9736884f2a01d98cb50399d0a1722530281a0ed8f5007155a4f345cae5c20e",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/41.png",
+      "metadata_hash": "22aeda1d4bb31f3e57fab637173c7e463b63f603f9a9217884d5e0dc946d6e7a",
+      "metadata_link": "https://gateway.irys.xyz/9V6aieMq5HnCL7ys72kQA8kJL7iHYnspg97dRfuv1uBo",
+      "onChain": true
+    },
+    "42": {
+      "name": "D1: Four of Spades",
+      "image_hash": "597d7db69e0d4d09c8edfa72a2da3e729811b223d55c4386eb8b8a4e0d4ddbd6",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/42.png",
+      "metadata_hash": "37894457ecc19ea01af49abfbeb681e972b257678c9fd803314fdfb747c0a2e1",
+      "metadata_link": "https://gateway.irys.xyz/4UGtQLqtcgt4w2j8infvHVec9vnPhYEKmEnMxZM1axUK",
+      "onChain": true
+    },
+    "43": {
+      "name": "D1: Five of Spades",
+      "image_hash": "a93914b5b0b3ffe4a6b4fe36cc117930a4ed171ba3e15aaa262affd7848ee79b",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/43.png",
+      "metadata_hash": "3ef2825d31d841b767af51b23da682c5f9405c7c60f208e4055464187228d731",
+      "metadata_link": "https://gateway.irys.xyz/G7sxPDWZq82Ta2R2CEM2YkzqmBCyKSmfZ6Dm5PpPJP4e",
+      "onChain": true
+    },
+    "44": {
+      "name": "D1: Six of Spades",
+      "image_hash": "e935d99a67ff2a6d48fcabf0066bc47b1d986f3e7c9b6f04f353836265e3ad37",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/44.png",
+      "metadata_hash": "fa9533101286d33df106b47ccf1aca06410206fa204c44b6dbef1b581b20e873",
+      "metadata_link": "https://gateway.irys.xyz/6x6VDND2S4VFGCgtFnk5kctyeaJb78PPQWnvjKnASdSZ",
+      "onChain": true
+    },
+    "45": {
+      "name": "D1: Seven of Spades",
+      "image_hash": "c96f69f1e88f495f820e7991adf76b1d024775cdfab6e1aa0d6ea15e209a0fd9",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/45.png",
+      "metadata_hash": "dc6491d770599c038cafd4214ec5b72930fb65e0173ada1f54141638c0fdd827",
+      "metadata_link": "https://gateway.irys.xyz/4q1vjixdyyUnTv1jLRTKp8NauxTFL9MFSXwudS3YhBUR",
+      "onChain": true
+    },
+    "46": {
+      "name": "D1: Eight of Spades",
+      "image_hash": "3d631171b169ab8e5b94dd3a350e165c96e666a1392a2333b6cabe9e2cbbd8ea",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/46.png",
+      "metadata_hash": "230ba45205f362a67167d16283ee08c77bebc3e6bd541c50c9cf27c4a3844b70",
+      "metadata_link": "https://gateway.irys.xyz/DEkP6vb4zh6Csd9rptWvPnkcXoPjVgXfp4ZxzbabcUKF",
+      "onChain": true
+    },
+    "47": {
+      "name": "D1: Nine of Spades",
+      "image_hash": "849a15d64319587839cb856f5af73e9bb77fd058025a4a9c534b943ac8a1463d",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/47.png",
+      "metadata_hash": "d8588732634cdfc941ce502b05ca2f4b3cfd3240c4568e63b4db58c9710276e7",
+      "metadata_link": "https://gateway.irys.xyz/4UmLs7jDERaRiiJpeFdDWQS6ZkKtRJNz8qmTiddwCX2e",
+      "onChain": true
+    },
+    "48": {
+      "name": "D1: Ten of Spades",
+      "image_hash": "56a9a8659c10669cf7c5db4488ae2d5c6675a0da4db55c7bda42df18db5f95f2",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/48.png",
+      "metadata_hash": "66ccc373b088bc5597958961a8c01384fc9e550ecc76be75ea5cd2b72ce545ed",
+      "metadata_link": "https://gateway.irys.xyz/4heGLWfmTqHJj8oYedwRJoeqjo6xAUvp5DYAQRvLn62H",
+      "onChain": true
+    },
+    "49": {
+      "name": "D1: Jack of Spades",
+      "image_hash": "9d078d67dbec397f63302c5d758b1337fd3589b7903aeeb453428748fb6317b5",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/49.png",
+      "metadata_hash": "7d223d996d8e90626196276063eb2a6e159b65b1dd95753aa70538dc14bc20a8",
+      "metadata_link": "https://gateway.irys.xyz/Aifjec6knexQXyjNMGstgE62r41miAWJCXNdQm8MQ6Pa",
+      "onChain": true
+    },
+    "50": {
+      "name": "D1: Queen of Spades",
+      "image_hash": "ac6a06f5cbf380d632e44668754805f8bec725ea7a14601bc22e1451918474a6",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/50.png",
+      "metadata_hash": "c62d569db22e187fc1afd980cbe7d1b0d6ea6aa66fe014b3de87488fca40dd69",
+      "metadata_link": "https://gateway.irys.xyz/GZCV41GexDAUPqnpxAHdhdwkVK66Umw4gZmijHbjvhAD",
+      "onChain": true
+    },
+    "51": {
+      "name": "D1: King of Spades",
+      "image_hash": "a825d46a47425e0ed898d5bdb9fbb0c2039b600ee75f5d52bf3fb47c35f27eaa",
+      "image_link": "https://raw.githubusercontent.com/BGiggle/poker-nft-assets/main/assets/51.png",
+      "metadata_hash": "4817ab289465f753c161508e18b8442506b988d870845dc690c4b1e0e8642833",
+      "metadata_link": "https://gateway.irys.xyz/9Qm25RMKkZReTusrQwpPeKtHCihZYVUYu61PLZa7daaT",
+      "onChain": true
+    }
+  }
+}

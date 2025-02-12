@@ -1,0 +1,31 @@
+{
+  "tokenStandard": "nft",
+  "number": 52,
+  "symbol": "PH",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "FHpGqaGN8Z1nzqz18tq52uSzq4zomAY5zasYrbV1YJn1",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.001,
+        "destination": "FHpGqaGN8Z1nzqz18tq52uSzq4zomAY5zasYrbV1YJn1"
+      }
+    }
+  },
+  "maxEditionSupply": null
+}
